@@ -1,73 +1,35 @@
-# Welcome to your Lovable project
+🌦️ **Weather Now**
 
-## Project info
+A simple and fast weather application built with React + Vite + TailwindCSS that allows users to check the current weather conditions for any city in the world.
 
-**URL**: https://lovable.dev/projects/78d68085-e04e-4ba8-a13a-6a79a8f0bde5
+🚀 **Features**
 
-## How can I edit this code?
+✅ Search weather by city name
 
-There are several ways of editing your application.
+✅ Displays temperature, humidity, wind speed, and conditions
 
-**Use Lovable**
+✅ Responsive & mobile-friendly design
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/78d68085-e04e-4ba8-a13a-6a79a8f0bde5) and start prompting.
+✅ Clean UI with gradient backgrounds
 
-Changes made via Lovable will be committed automatically to this repo.
+✅ Built with modern frontend stack (React + Vite + TailwindCSS)
 
-**Use your preferred IDE**
+🛠️ **Tech Stack**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Frontend: React + Vite + TypeScript
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Styling: Tailwind CSS
 
-Follow these steps:
+API: Open-Meteo API
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Deployment: GitHub Pages / Netlify / Vercel
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🙌 **Acknowledgements**
 
-# Step 3: Install the necessary dependencies.
-npm i
+Open-Meteo API: Free weather data
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Tailwind CSS: UI styling
 
-**Edit a file directly in GitHub**
+React + Vite: Fast development framework
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/78d68085-e04e-4ba8-a13a-6a79a8f0bde5) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**✨ Weather Now helps outdoor enthusiasts check real-time weather quickly and plan their adventures better!**
