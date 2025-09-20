@@ -32,4 +32,9 @@ Tailwind CSS: UI styling
 
 React + Vite: Fast development framework
 
+**🌍 Deployment**
+
+Deployed on:
+
+GitHub Pages- 
 **✨ Weather Now helps outdoor enthusiasts check real-time weather quickly and plan their adventures better!**
